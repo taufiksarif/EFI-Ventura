@@ -13,3 +13,6 @@ everythhing works perfectly<br>
 [i'm using chris1111 themes for this EFI](https://htmlpreview.github.io/?https://github.com/chris1111/My-Simple-OC-Themes/blob/master/My%20Simple%20Theme%20OpenCore.html)<br>
 <br>
 ![About](https://github.com/user-attachments/assets/4fa19a58-f580-47d1-8722-ee97a5411bd8)
+<br>
+<br>
+![Peripherals](https://github.com/user-attachments/assets/dcda22ea-e9fa-410a-a015-cda9ad784a88)
